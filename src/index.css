@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./assets/bg-img3.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 18px;
+}
